@@ -1,1 +1,0 @@
-# finds the given word from the dictionary.
